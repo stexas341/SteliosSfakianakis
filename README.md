@@ -1,7 +1,7 @@
 # Stelios Sfakianakis
 About me: I am from Greece , currently studying Computer Science at the University Of Crete.
 
-I have worked with C,C++,Java,HTML,Css,Javascript,Python,Assembly.
+I have worked with C,C++,Java,HTML,Css,Javascript,Python,Assembly,Figma, MySQL.
 
 📫 How to reach me -> st.sfakianakis@yahoo.com
 
@@ -14,6 +14,10 @@ I have worked with C,C++,Java,HTML,Css,Javascript,Python,Assembly.
 <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="js" alt="js" width="60" height="60"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="60" height="60"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="60" height="60"/>&nbsp;
+
+
 
 
 ### :fire: My Stats :
